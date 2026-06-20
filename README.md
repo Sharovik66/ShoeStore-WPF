@@ -1,3 +1,6 @@
+## В файлах ProductRepository.cs ,LoginWindow.xaml.cs ,OrdersWindow.xaml.cs 9-10 строка должна быть вот такой - private readonly string _connectionString = "Server=localhost;Database=shoe_store_db;Uid=root;Pwd=1234;CharSet=utf8mb4;";
+
+
 ## Технологический стек
 * **Платформа:** .NET 8.0 (WPF)
 * **Язык программирования:** C# (ООП, Архитектурный паттерн MVP)
